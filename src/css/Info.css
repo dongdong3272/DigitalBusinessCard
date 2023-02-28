@@ -1,0 +1,65 @@
+.selfie {
+    width: 500px; /* width of container */
+    height: 500px; /* height of container */
+    object-fit: cover;
+    object-position: 0% 40%; /* try 20px 10px */ 
+}
+
+.Info--Name {
+    font-size: 3rem;
+    font-weight: 700;
+    color: #2B283A;
+    margin-top: 20px;
+}
+
+.Info--Title {
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: #f47d27;
+    margin: 0;
+}
+
+.Info--Website {  
+    margin-top: 20px;
+    font-size: 1.2rem;
+    font-weight: 400;
+    color: #4a4e74;
+}
+
+.Info-Buttons {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.Info-EmailButton {
+  width: 200px;
+  height: 60px;
+  background-color: #e7e7e7;
+  color: #333333;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: thin;
+  text-align: center;
+}
+
+.Info-EmailButton i {
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+
+.Info-LinkedInButton {
+  width: 200px;
+  height: 60px;
+  background-color: #0077b5;
+  color: #ffffff;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: thin;
+  text-align: center;
+}
+
+.Info-LinkedInButton i {
+  font-size: 20px;
+  margin-right: 10px;
+}

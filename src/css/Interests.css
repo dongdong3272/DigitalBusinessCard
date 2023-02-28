@@ -1,0 +1,18 @@
+.Interests {
+    text-align: left !important;
+    margin-top: 40px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.Interests--Title {
+    font-size: 30px;
+    font-weight: bold;
+    color: #2b283a;
+}
+
+.Interests--Content {
+    font-size: 18px;
+    font-weight: normal;
+    color: #4a4e74;
+}
