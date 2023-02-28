@@ -4,7 +4,7 @@ import "../css/Info.css";
 export default function Info() {
     return (
         <div className="Info">
-            <img src="./src/images/photo.jpeg" className="selfie"/>
+            <img src="/images/photo.jpeg" className="selfie"/>
             <h1 className="Info--Name">Laura Smith</h1>
             <h2 className="Info--Title">Frontend Developer</h2>
             <h3 className="Info--Website">laurasmith.website</h3>
