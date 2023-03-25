@@ -2,7 +2,12 @@
     width: 500px; /* width of container */
     height: 500px; /* height of container */
     object-fit: cover;
-    object-position: 0% 40%; /* try 20px 10px */ 
+    object-position: 0% 0%; /* try 20px 10px */ 
+}
+
+.web-link {
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
 }
 
 .Info--Name {
@@ -40,11 +45,14 @@
   font-size: 20px;
   font-weight: thin;
   text-align: center;
+  line-height: 37px;
 }
 
 .Info-EmailButton i {
   font-size: 20px;
   margin-right: 10px;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 
@@ -56,10 +64,12 @@
   padding: 10px;
   font-size: 20px;
   font-weight: thin;
-  text-align: center;
+  line-height: 37px;
 }
 
 .Info-LinkedInButton i {
   font-size: 20px;
   margin-right: 10px;
+  margin-top: auto;
+  margin-bottom: auto;
 }

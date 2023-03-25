@@ -6,9 +6,14 @@ export default function Interests() {
         <div className="Interests">
             <h1 className="Interests--Title">Interests</h1>
             <p className="Interests--Content">
-            Food expert. Music scholar. Reader. Internet fanatic.
-            Bacon buff. Entrepreneur. Travel geek. Pop culture ninja.
-            Coffee fanatic.
+                <ul>
+                    <li>Video Games</li>
+                    <li>Board Games</li>
+                    <li>Animes</li>
+                    <li>Skating</li>
+                    <li>Swimming</li>
+                    <li>Reading</li>
+                </ul>
             </p>
         </div>
     );

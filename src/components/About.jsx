@@ -6,9 +6,7 @@ export default function About() {
         <div className="About">
             <h1 className="About--Title">About</h1>
             <p className="About--Content">
-                I am a frontend developer with a particular interest in making things simple 
-                and automating daily tasks. I try to keep up with security and best practices, 
-                and am always looking for new things to learn.
+                I am a senior student at Hong Kong University of Science and Technology, majoring in Data Science and Technology and Computer Science.
             </p>
         </div>
     );
